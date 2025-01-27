@@ -4,3 +4,9 @@ plotly
 seaborn
 matplotlib
 openpyxl
+streamlit
+pandas
+plotly
+seaborn
+matplotlib
+xlsxwriter
